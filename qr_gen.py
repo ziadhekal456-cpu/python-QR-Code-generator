@@ -7,7 +7,7 @@ import os
 root=Tk()
 root.geometry("340x550")
 root.resizable(False,False)
-root.iconbitmap(r"D:\جابر\zezo\PythonProjects\QR Code Generator - EN\qr-code.ico")
+root.iconbitmap(r"YOUR_ICON_PATH\qr-code.ico")
 root.title("QR Code Generator")
 root.configure(background="aliceblue")
 
